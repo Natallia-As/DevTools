@@ -1,4 +1,4 @@
-# devtools
+# DevTools
 
 1. Открыть сайт http://itcareer.pythonanywhere.com/
 2. Открыть Chrome DevTools
