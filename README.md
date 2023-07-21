@@ -6,7 +6,7 @@ you can see my video answer [here](https://drive.google.com/file/d/1403KykhrL_Dn
 2. Открыть Chrome DevTools
 3. Зайти в панель Elements.
 4. Найти инспектором кнопку Submit и выровнять слово Submit по центру
-5. Включить режим мобильного деввайса (Device Mode)
+5. Включить режим мобильного девайса (Device Mode)
 6. Выставить Dimensions: Responsive 
 7. Выбрать Responsive - Mobile
 8. Продемонстрировать работу дизайна Responsive
