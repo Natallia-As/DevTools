@@ -1,6 +1,6 @@
 # DevTools
 
-you can see my video answer [here] (https://drive.google.com/file/d/1403KykhrL_Dnp5cjOzS2ISCk0xFeUbjI/view?usp=sharing). 
+you can see my video answer [here](https://drive.google.com/file/d/1403KykhrL_Dnp5cjOzS2ISCk0xFeUbjI/view?usp=sharing). 
 
 1. Открыть сайт http://itcareer.pythonanywhere.com/
 2. Открыть Chrome DevTools
